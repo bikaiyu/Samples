@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/pre-dexed/debug/classes-534ae97845f0ebbcf57601078a9bf8b8f1edb1bd.jar" />
+    </item>
+    <item
+        jar="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4bf5ef1e1206ca8c45a2b05cb03e5c5d30f0f251.jar" />
+    </item>
+    <item
+        jar="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/pre-dexed/debug/classes-311dbf68f50801d34d8ae8df344d9fc5cb5c132b.jar" />
+    </item>
+    <item
+        jar="/develop/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-55b83ebdfee348ef0cd5f2b121fe371489ba88c7.jar" />
+    </item>
+    <item
+        jar="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/exploded-aar/PullrefreshLib/libraries@Android-PullToRefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2479bfc61ce679bb367a80e4e5a1b80e337182e1">
+        <dex dex="/home/lhyz/AndroidStudioProjects/PullrefreshLib/app/build/intermediates/pre-dexed/debug/classes-c3347ddd46720877fd8aa08f75f69a50a774cceb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries/Android-PullToRefresh-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/PullrefreshLib/libraries@Android-PullToRefresh/unspecified/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/PullrefreshLib/libraries@Android-PullToRefresh/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

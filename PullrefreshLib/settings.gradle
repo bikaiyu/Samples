@@ -1,0 +1,3 @@
+include ':app', ':Android-PullToRefresh'
+include ':libraries/Android-PullToRefresh'
+project(':Android-PullToRefresh').projectDir = new File('libraries/Android-PullToRefresh')
